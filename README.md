@@ -1,10 +1,10 @@
-#Data Science (Analysis, Visualization) Tools
+##Data Science (Analysis, Visualization) Tools
 
 
 An opinionated list of tools for doing data science.
 
 
-##Visualization.
+###Visualization.
 
 #### D3
 
@@ -12,12 +12,12 @@ An opinionated list of tools for doing data science.
 * [cubism](https://github.com/square/cubism) Time series visualization
 * [crossfilter](https://github.com/square/crossfilter) Fast n-dimensional filtering and grouping of records
 
-#Learning Resources(online courses, blogs, videos)
+##Learning Resources(online courses, blogs, videos)
 
-### [Statistics for Genomcs: Distances and Clustering](https://www.youtube.com/watch?v=wQhVWUcXM0A)
+#### [Statistics for Genomcs: Distances and Clustering](https://www.youtube.com/watch?v=wQhVWUcXM0A)
 
 
 ##Others
 #### Analytics
-* [Piwik](http://piwik.org/)
+* [Piwik](http://piwik.org/)  web analytics platform
 
